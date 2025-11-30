@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "hexo": "^7.1.1",
-    "hexo-theme-matery": "^1.0.0",
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
